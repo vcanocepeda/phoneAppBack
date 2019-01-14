@@ -1,0 +1,37 @@
+[
+		{
+   			"id": "0001",
+   			"name": "Samsung",
+   			"description": "Samsung Galaxy S7",
+   			"image": "/src/main/resources/galaxy_s7-img.jpg",
+   			"price": "650"
+   		},
+   		{
+   			"id": "002",
+   			"name": "Huawei",
+   			"description": "Huawei P20",
+   			"image": "/src/main/resources/huawei_p20-img.jpg",
+   			"price": "430"
+   		},
+   		{
+   			"id": "003",
+   			"name": "BQ",
+   			"description": "Aquaris X2",
+   			"image": "/src/main/resources/bq_aquaris_x2-img.jpg",
+   			"price": "380"
+   		},
+   		{
+   			"id": "004",
+   			"name": "Iphone",
+   			"description": "Iphone X",
+   			"image": "/src/main/resources/iphone_x-img.jpg",
+   			"price": "730"
+   		},
+   		{
+   			"id": "005",
+   			"name": "Xiami",
+   			"description": "Xiaomi Me4",
+   			"image": "/src/main/resources/xiaomi_me4-img.jpg",
+   			"price": "315"
+   		}
+]
